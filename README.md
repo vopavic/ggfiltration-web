@@ -14,13 +14,13 @@ Moderní B2B webová prezentace pro G&G filtration, postavená na Next.js a Tail
 1. Instalace závislostí:
 
 ```bash
-npm install
+pnpm install
 ```
 
 2. Spuštění vývojového serveru:
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 Web poběží na `http://localhost:3000`.
